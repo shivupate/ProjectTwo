@@ -1,4 +1,4 @@
-# ProjectTwo
+
 # Group Project 2 - ns_21482_7
 
 
@@ -60,9 +60,11 @@ Another manipulation we did was that we determined the game systems that each ga
 **Analysis and Results:**
 
 The first implication is to see the sales per capita per genre in each region. This allows us to analyze which genre is most sold per region. This is a good way for the game developers to market their products heavier in the regions in which the genre has more demand. They may also choose to target their marketing to regions in which their genre is not in demand in order to expand their market reach.
+![image](https://user-images.githubusercontent.com/129434299/235215784-d011c958-f25e-45b5-953c-8b271e5def0d.png)
 
 As seen in the graph above, role-playing games are the most popular in Japan and have a significantly higher amount of sales than any other genre in the country. This implies that any role-playing game developers should advertise their game strongly in Japan as it would be the most appealing to that audience and any Japanese developers should focus on developing role-playing games if they are looking to appeal to their native audience. 
 
 The second implication is the number of games bought by platform. This is a way for console manufacturers to know where they rank amongst their peer competitors. This is key data as a lot of big corporations must perform benchmarking in order to strategically plan to stay ahead of their competition. 
+![image](https://user-images.githubusercontent.com/129434299/235215551-94a86b6b-6189-4d14-b711-6dfb82e97d42.png)
 
 As seen in the graph above, Playstation game console games are the most popular in terms of global sales. This implies that Playstation is the strongest competitor in the market with Nintendo being its biggest competitor. Gameboy is the weakest in the market and they could use this information to gain a larger part of the market by observing what Playstation is doing well and using that in their strategy. 
